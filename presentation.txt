@@ -8,3 +8,5 @@ Zahra is graduated in Computer Engineering and Guido and Alberto are graduated i
 We'll use Python/Excel for preprocessing and HTML and Javascript for the web pages
 
 Our skills in HTML,CSS and Javascript are respectively elementary/medium 
+
+The link of our website is: https://guidovalla.github.io/dataviz/
