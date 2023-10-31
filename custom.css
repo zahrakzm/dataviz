@@ -4,7 +4,10 @@
 /* title and heading will make us of roboto slab and paragraph and text will be dysplayed in fira sans */
 
 h1,h2,a{
-    font-family: 'Roboto Slab', serif;}
+    font-family: 'Roboto Slab', serif;
+    text-decoration: none;
+
+}
 
 
 /*we must put the text*/
